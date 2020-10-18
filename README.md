@@ -9,6 +9,8 @@ Double click in the settings window keyboard shortcut field to change it.
 
 It probably contains some bugs with the docker engine, just report it to be fixed.
 
+I will add the source code to the repository soon I clean it.
+
 ## screenshots
 
 ![example1](example.png)
